@@ -1,0 +1,5 @@
+{"nationalNumber":1060,"name":"Zaid","contactNumber":"0780281678","address":null,"patientType":"DENTAL_CONSULTANT"}
+{"nationalNumber":1070,"name":"Zai1d","contactNumber":"0780281678","address":null,"patientType":"DENTIST_STUDENT"}
+{"nationalNumber":2002,"name":"Suhaib","contactNumber":"0777123432","address":null,"patientType":"DENTAL_CONSULTANT"}
+{"nationalNumber":1234,"name":"hazem","contactNumber":"0795769615","address":"amman","patientType":"ORDINARY"}
+{"nationalNumber":1233,"name":"hazem","contactNumber":"0795769615","address":"amman","patientType":"DENTIST_STUDENT"}
